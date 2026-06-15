@@ -1,1 +1,51 @@
-
+reviews:
+  - name: "Lan Nguyen"
+    date: "4 months ago"
+    rating: 5
+    source: "google"
+    text: "They were awesome! Thank you so much for getting the job done quickly and efficiently. I will definitely recommend them to anyone I know!"
+  - name: "Advisor SBAIP"
+    date: "5 months ago"
+    rating: 5
+    source: "google"
+    text: "My movers knew what they were doing! They are hardworking. I am very satisfied with their job."
+  - name: "Quanda Jackson"
+    date: "5 months ago"
+    rating: 5
+    source: "google"
+    text: "Oh my oh my!! These 2 gentlemen are the BEST! They played “Tetris” and got everything I needed in the containers and never worried one bit! … More"
+  - name: "Monica Dixon"
+    date: "3 months ago"
+    rating: 5
+    source: "google"
+    text: "Best movers ever I will definitely use them again very professional and efficient"
+  - name: "Cheryl Hatch"
+    date: "5 months ago"
+    rating: 5
+    source: "google"
+    text: "Was very professional and showed up on time and the quote they gave me was extremely reasonable compared to all the other places I had called also scheduled me right away I would always recommend them."
+  - name: "Mary Kaczmarek"
+    date: "5 months ago"
+    rating: 5
+    source: "google"
+    text: "Very prompt and friendly. Was on time!!! And we got the job done within time limit!! We only had one elevator working at storage unit with it being busy there. They knew exactly what to do to get it done, one worked getting things out … More"
+  - name: "Donald Eckler"
+    date: "4 months ago"
+    rating: 5
+    source: "google"
+    text: "They were on time, careful, fast and courteous."
+  - name: "Jerry M"
+    date: "5 months ago"
+    rating: 5
+    source: "google"
+    text: "Great service."
+  - name: "Barbe Xaviar"
+    date: "5 months ago"
+    rating: 5
+    source: "google"
+    text: "Excellent Services"
+  - name: "Narshika Campbell"
+    date: "3 days ago"
+    rating: 5
+    source: "google"
+    text: "New"
