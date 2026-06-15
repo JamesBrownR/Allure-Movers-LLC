@@ -1,10 +1,26 @@
-# Gallery images for Allure Movers LLC
-# Add a new entry below to include a photo in the gallery.
-# src must be inside the images/ folder and follow the AllureMovers#.webp naming format.
-# Fields: src, caption
-
-- src: images/AllureMoversLogo.webp
-  caption: Allure Movers LLC
+images:
+  - src: images/AllureMoversLogo.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers1.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers2.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers3.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers4.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers5.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers6.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers7.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers8.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers9.webp
+    caption: Allure Movers LLC
+  - src: images/AllureMovers10.webp
+    caption: Allure Movers LLC
 
 # Example entries (replace with real photos):
 # - src: images/AllureMovers1.webp
