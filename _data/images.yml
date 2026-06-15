@@ -1,0 +1,17 @@
+# Gallery images for Allure Movers LLC
+# Add a new entry below to include a photo in the gallery.
+# src must be inside the images/ folder and follow the AllureMovers#.webp naming format.
+# Fields: src, caption
+
+- src: images/AllureMoversLogo.webp
+  caption: Allure Movers LLC
+
+# Example entries (replace with real photos):
+# - src: images/AllureMovers1.webp
+#   caption: Loading a residential move in Fort Lauderdale
+#
+# - src: images/AllureMovers2.webp
+#   caption: Junk removal job completed same day
+#
+# - src: images/AllureMovers3.webp
+#   caption: Furniture assembly and setup
